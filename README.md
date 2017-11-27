@@ -1,4 +1,2 @@
 # New-Repo
-Hello word
-
-bye cworld
+Hello world
